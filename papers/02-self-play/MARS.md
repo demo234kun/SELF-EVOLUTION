@@ -112,3 +112,18 @@ MARS 的独特之处：**单周期 + 双类反思**，强调效率。
 1. **单周期 vs 多周期**：系统对比单周期双反思与多轮迭代的效果-成本曲线；
 2. **反思类型扩展**：探索更多反思维度（如元认知监控）；
 3. **弱模型适配**：研究如何让弱模型也能有效反思。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{hou2026learn,
+  title={Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement},
+  author={Hou, Xinmeng and Gong, Peiliang and Qu, Bohao and Wang, Wuqi and Guo, Qing and Liu, Yang},
+  year={2026},
+  eprint={2601.11974},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2601.11974}
+}
+```

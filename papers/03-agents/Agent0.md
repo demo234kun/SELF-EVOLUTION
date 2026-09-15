@@ -109,3 +109,18 @@ Agent0 的独特之处：**多步共进化 + 工具集成**，任务复杂度随
 1. **课程稳定性**：研究如何防止课程失控（过难）或饱和；
 2. **工具合成**：让 Agent 自己合成新工具（与 Tool-R0 呼应）；
 3. **成本感知**：在多步工具使用中加入成本/延迟约束。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{xia2025agent0,
+  title={Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning},
+  author={Xia, Peng and Zeng, Kaide and Liu, Jiaqi and Qin, Can and Wu, Fang and Zhou, Yiyang and Xiong, Caiming and Yao, Huaxiu},
+  year={2025},
+  eprint={2511.16043},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2511.16043}
+}
+```

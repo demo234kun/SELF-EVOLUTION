@@ -116,3 +116,18 @@
 1. **算子扩展**：探索更多原子算子（如 Refactor、Optimize）；
 2. **算子学习理论**：研究算子如何被最优训练与组合；
 3. **跨域 RSI**：把 OpenMLE 迁移到更多 AI4AI 场景（如数据标注、架构设计）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{yang2026frontisma1,
+  title={Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering},
+  author={Yang, Junlin and Jiang, Che and Fu, Yu and Luo, Tianwei and Ren, Can and Wang, Weizhi and Zhao, Kaikai and Liu, Hongyi and Zuo, Yuxin and Wang, Yuru and Fan, Yuchen and Tian, Kai and Yuan, Zhenzhao and Lin, Xiaojian and Sheng, Li and Qiang, Rushi and Jia, Guoli and Lv, Xingtai and Hua, Ermo and Lei, Dianqiao and Sun, Youbang and Ding, Ning and Zhou, Bowen and Zhang, Kaiyan},
+  year={2026},
+  eprint={2607.28568},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2607.28568}
+}
+```

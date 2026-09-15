@@ -118,3 +118,18 @@
 1. **验证强度量化**：为不同验证信号设计统一度量，验证"强度-上限"假设；
 2. **坍塌预警指标**：设计能提前检测自我确认循环/多样性坍塌的在线指标；
 3. **治理级度量**：开发可审计的"自改进速率"指标，用于监管（文中指出的最大空白）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{chen2026recursive,
+  title={Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops},
+  author={Chen, Mingguang and Wang, Licheng and Qu, Bo},
+  year={2026},
+  eprint={2607.07663},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2607.07663}
+}
+```

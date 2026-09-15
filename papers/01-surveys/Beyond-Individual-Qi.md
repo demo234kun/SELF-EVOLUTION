@@ -91,3 +91,18 @@
 1. **归因增强进化**：对比"有归因"与"无归因"的自进化效果，验证因果假设；
 2. **可归因协作设计**：设计内建可归因性的通信协议；
 3. **结构重组算法**：基于归因结果自动重组多智能体拓扑（与 APEX 的 L3 拓扑进化呼应）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{qi2026beyond,
+  title={Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems},
+  author={Qi, Shihao and Ma, Jie and Xing, Rui and Guo, Wei and Huang, Xiao and Gao, Zhitao and Deng, Jianhao and Liu, Jun and Zhang, Lingling and Wei, Bifan and Yang, Boqian and Wang, Pinghui and Sun, Jianwen and Tao, Jing and Wu, Yaqiang and Liu, Hui and Yao, Yu and Liu, Tongliang},
+  year={2026},
+  eprint={2605.14892},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2605.14892}
+}
+```

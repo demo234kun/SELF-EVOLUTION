@@ -106,3 +106,18 @@ RSEA 的独特之处：**严格 held-out 门控**保证单调安全。
 1. **门控设计**：研究不同门控严格度对进化速度与安全的影响；
 2. **分布外门控**：设计能检测分布漂移的门控；
 3. **状态压缩**：研究三层状态的高效表示与更新。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{nguyen2026recursive,
+  title={Recursive Self-Evolving Agents via Held-Out Selection},
+  author={Nguyen, Michael and Nguyen, Quoc and Vuong, Paul},
+  year={2026},
+  eprint={2606.28374},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2606.28374}
+}
+```

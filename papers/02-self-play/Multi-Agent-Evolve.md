@@ -104,3 +104,18 @@ Proposer 出题 → Solver 解题 → Judge 评判(替代环境)
 1. **评判者稳健性**：设计抗奖励黑客的 Judge 机制（如多评判者集成、held-out 校准）；
 2. **角色数消融**：系统研究 2/3/4 角色对进化效率的影响；
 3. **大规模验证**：在 70B+ 模型上验证三元组共进化的可扩展性。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{chen2025multiagent,
+  title={Multi-Agent Evolve: LLM Self-Improve through Co-evolution},
+  author={Chen, Yixing and Wang, Yiding and Zhu, Siqi and Yu, Haofei and Feng, Tao and Zhang, Muhan and Patwary, Mostofa and You, Jiaxuan},
+  year={2025},
+  eprint={2510.23595},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2510.23595}
+}
+```

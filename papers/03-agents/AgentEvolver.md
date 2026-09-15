@@ -104,3 +104,18 @@ Self-Questioning(生成任务) → Self-Navigating(高效探索)
 1. **任务质量过滤**：为自提问加入质量门控；
 2. **归因准确性**：验证贡献度归因的正确性及其对学习的影响；
 3. **效率基准**：构建衡量"自进化效率"的标准基准。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{zhai2025agentevolver,
+  title={AgentEvolver: Towards Efficient Self-Evolving Agent System},
+  author={Zhai, Yunpeng and Tao, Shuchang and Chen, Cheng and Zou, Anni and Chen, Ziqian and Fu, Qingxu and Mai, Shinji and Yu, Li and Deng, Jiaji and Cao, Zouying and Liu, Zhaoyang and Ding, Bolin and Zhou, Jingren},
+  year={2025},
+  eprint={2511.10395},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2511.10395}
+}
+```

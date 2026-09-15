@@ -115,3 +115,18 @@
 1. **更强验证**：引入形式化验证弥补基准验证的不足；
 2. **效率优化**：降低开放式探索的算力成本；
 3. **内生安全**：设计不依赖外部监督的自我修改安全保证。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{zhang2025darwin,
+  title={Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents},
+  author={Zhang, Jenny and Hu, Shengran and Lu, Cong and Lange, Robert and Clune, Jeff},
+  year={2025},
+  eprint={2505.22954},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2505.22954}
+}
+```

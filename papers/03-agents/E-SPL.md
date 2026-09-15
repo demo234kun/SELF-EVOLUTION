@@ -108,3 +108,18 @@
 1. **分工验证**：实验验证陈述性/程序性知识分工假说；
 2. **算子设计**：设计更适合提示的遗传算子；
 3. **成本优化**：降低多提示并行采样的开销。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{zhang2026evolutionary,
+  title={Evolutionary System Prompt Learning for Reinforcement Learning in LLMs},
+  author={Zhang, Lunjun and Chen, Ryan and Stadie, Bradly C.},
+  year={2026},
+  eprint={2602.14697},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2602.14697}
+}
+```

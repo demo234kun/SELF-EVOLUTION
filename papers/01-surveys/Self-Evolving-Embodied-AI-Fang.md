@@ -90,3 +90,18 @@
 1. **五维协同进化**：设计联合优化五个维度的算法，验证协同 > 独立；
 2. **具身自适应基准**：构建具身形态变化的评测环境；
 3. **物理验证 vs 文本验证**：对比具身场景与纯文本场景的自进化效率，检验验证层级理论。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{feng2026selfevolving,
+  title={Self-evolving Embodied AI},
+  author={Feng, Tongtong and Wang, Xin and Zhu, Wenwu},
+  year={2026},
+  eprint={2602.04411},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2602.04411}
+}
+```

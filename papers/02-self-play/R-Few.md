@@ -105,3 +105,18 @@
 1. **锚点选择理论**：研究最少需要多少、什么样的锚点即可稳定自进化；
 2. **漂移在线检测**：设计实时监测概念漂移/多样性坍塌的指标并动态调整引导强度；
 3. **自适应引导**：让模型自主决定何时需要人类引导（元认知），进一步减少监督。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{yu2025guided,
+  title={Guided Self-Evolving LLMs with Minimal Human Supervision},
+  author={Yu, Wenhao and Liang, Zhenwen and Huang, Chengsong and Panaganti, Kishan and Fang, Tianqing and Mi, Haitao and Yu, Dong},
+  year={2025},
+  eprint={2512.02472},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2512.02472}
+}
+```

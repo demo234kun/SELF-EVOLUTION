@@ -119,3 +119,18 @@ ACE 用三个模块化步骤维护上下文：
 1. **上下文上限管理**：研究 playbook 增长时的压缩/归档策略；
 2. **反思质量提升**：设计更可靠的反思与策划机制；
 3. **上下文 vs 权重**：系统对比上下文进化与参数微调的适用边界。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{zhang2025agentic,
+  title={Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models},
+  author={Zhang, Qizheng and Hu, Changran and Upasani, Shubhangi and Ma, Boyuan and Hong, Fenglu and Kamanuru, Vamsidhar and Rainton, Jay and Wu, Chen and Ji, Mengmeng and Li, Hanchen and Thakker, Urmish and Zou, James and Olukotun, Kunle},
+  year={2025},
+  eprint={2510.04618},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2510.04618}
+}
+```

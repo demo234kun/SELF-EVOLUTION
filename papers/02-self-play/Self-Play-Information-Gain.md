@@ -114,3 +114,18 @@
 1. **信息增益度量**：设计跨任务通用的"可学习信息"度量；
 2. **非对称比例优化**：研究角色能力差距多大时共进化最有效；
 3. **容量-信息协同调度**：研究算力预算与信息增益的最优匹配策略。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{liu2026selfplay,
+  title={Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain},
+  author={Liu, Wei and Qi, Siya and Du, Yali and He, Yulan},
+  year={2026},
+  eprint={2603.02218},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2603.02218}
+}
+```

@@ -155,6 +155,65 @@
 
 ---
 
+## 🧪 核心方法对比表
+
+> 跨论文横向对比：**进化对象 / 驱动信号 / 验证类型 / 角色数 / 代表基准**。
+> 「验证类型」按本库综述论文提出的**验证层级**排序：形式化/执行验证 > 奖励模型 > LLM 评判 > 内在自评估。
+
+### 自我博弈类
+
+| 论文 | 进化对象 | 驱动信号 | 验证类型 | 角色数 | 代表基准 |
+|------|----------|----------|----------|--------|----------|
+| R-Zero | 策略（权重） | 能力边界奖励 | 正确性（执行） | 2 (Challenger/Solver) | 数学 / 通用推理 |
+| R-Few | 策略（权重） | 少量人工锚点 + 难度课程 | 正确性（执行） | 2 | 数学 / 通用推理 |
+| G-Zero | 策略（权重） | **Hint-δ 内在奖励** | 内部分布动力学（无验证器） | 2 (Proposer/Generator) | 开放生成 |
+| Multi-Agent Evolve | 策略（权重） | Judge 评估 | LLM 评判 | 3 (Proposer/Solver/Judge) | 数学 / 推理 / 常识 |
+| Tool-R0 | 策略（权重） | 互补奖励 | 工具执行 | 2 (Generator/Solver) | 工具调用 |
+| SAGE (Multi-Agent) | 策略（权重） | Critic 过滤 + 外部验证器 | 执行验证 | 4 (Challenger/Planner/Solver/Critic) | LiveCodeBench / OlympiadBench |
+| Language Self-Play | 策略（权重） | 博弈胜负 | 博弈判定 | 2 | 指令 / 数学 / 代码 |
+| Self-RedTeam | 策略（权重） | 奖励模型裁判 | 奖励模型 | 1（单策略双角色） | 14 安全基准 |
+| SPELL | 策略（权重） | 语义等价验证 | LLM 验证 | 3 (Questioner/Responder/Verifier) | 6 长上下文基准 |
+| Active-Zero | 策略（权重） | 准确性奖励 | 正确性验证 | 3 (Searcher/Questioner/Solver) | 12 VLM 基准 |
+| Self-Play Info Gain | 理论（系统设计） | 可学习信息增益 | 信息论度量 | 3 (Proposer/Solver/Verifier) | 编码任务 |
+| Self-Consolidation | 记忆 + 参数 | 对比反思 | 轨迹反馈 | — | 长期 Agent |
+| MARS | 上下文（指令） | 原则反思 + 过程反思 | 任务反馈 | 1 | 6 基准 |
+
+### Agent 自进化类
+
+| 论文 | 进化对象 | 驱动信号 | 验证类型 | 角色数 | 代表基准 |
+|------|----------|----------|----------|--------|----------|
+| ACE | 上下文（playbook） | 执行反馈（无标签） | 无标签执行 | 1 | AppWorld / 金融 |
+| EvolveR | 上下文（原则库）+ 策略 | 策略强化 | 任务表现 | 1 | 多跳 QA |
+| Agent0 | 策略（权重） | 共生竞争 + 工具 | 工具执行 | 2 (Curriculum/Executor) | 数学 / 通用推理 |
+| AgentEvolver | 策略（权重） | 自归因奖励 | 贡献度分配 | 1 | Agent 任务 |
+| WebEvolver | 策略（权重） | 世界模型预测 | 环境预测 | 2 (Agent + World Model) | Mind2Web / WebVoyager / GAIA |
+| Do Agents Forget? | 工作流/技能/模型/记忆 | CPE 约束 | 保留能力度量 | — | 四通道 |
+| RSEA | 上下文（三层状态） | held-out 门控 | held-out 验证 | 1 | ALFWorld / GAIA / τ-bench / WebShop |
+| PACE | 提示 + 控制逻辑 | held-out 验证 | held-out 验证 | 1 | 4 基准 + τ-bench |
+| APEX | harness + 原则 + 拓扑 | 结构适应度 | 适应度评分 | 1 | 生产 Agent（114 轨迹） |
+| E-SPL | 提示 + 权重 | RL + 进化算子 | 相对性能评级 | 1 | AIME → BeyondAIME |
+| Towards AGI (Kar) | 多组件 | CL / RL / GA | 任务执行 | 4 | TaskCraft |
+| Ctx2Skill | 技能集 | Judge 二值反馈 | LLM 评判 | 5 | CL-bench |
+| HexMachina | 代码制品 | 模拟胜率 | 游戏胜负 | 2 | Catan |
+| SAGE (Socialized) | 上下文 | 同伴历史 | 性能对比 | — | 3 竞技场 |
+
+### 代码进化 / 具身类
+
+| 论文 | 进化对象 | 驱动信号 | 验证类型 | 角色数 | 代表基准 |
+|------|----------|----------|----------|--------|----------|
+| Darwin Gödel Machine | 代码（自身） | 基准验证 | 编码基准（执行） | 1 | SWE-bench / Polyglot |
+| SATLUTION | 仓库代码（数万行） | 正确性 + 运行时 | 形式 + 运行时 | 1 | SAT Competition |
+| MLEvolve | 代码 + 搜索策略 | 回顾性记忆 + 图搜索 | ML 指标 | — | MLE-Bench |
+| MetaEvolve | 权重（元技能） | 可验证奖励 | 测试用例（执行） | 1 | 7 编码基准 |
+| Frontis-MA1 | 权重（四算子） | 执行反馈 | 执行验证 | 1 | MLE-Bench Lite |
+| Seed2Scale | 数据 | VLM 验证 | VLM 质量评分 | 3 (采集/验证/学习) | 具身数据 |
+| SEEA-R1 | 策略（权重） | MGRM 生成奖励 | 多模态奖励模型 | 1 | ALFWorld |
+| Agent0-VL | 策略（权重） | 工具锚定自奖励 | 工具验证 | 2 (Solver/Verifier) | 几何 / 视觉科学 |
+
+**规律**：验证信号越强（形式/执行），自进化越稳定、提升越显著（DGM、SATLUTION、MetaEvolve）；信号越弱（LLM 评判/内在自评估），越需要额外机制防坍塌（held-out 门控、Critic 过滤、Cross-time Replay）。
+
+---
+
 ## 📈 趋势洞察
 
 ### 核心技术演进路线
@@ -208,6 +267,7 @@
 - **表格导航**：首页表格按6大方向组织，提供论文、解读、链接三个维度
 - **详细解读**：点击 `MD解读` 列链接，进入单篇论文的完整Q&A解读
 - **解读格式**：每篇论文解读包含 9 个核心问题（Q1问题来源 / Q2相关研究 / Q3解决方案 / Q4数据细节 / Q5实验 / Q6创新点 / Q7不足 / Q8技术范式 / Q9研究话题）+ 研究主题/数据类型/研究设计
+- **BibTeX 引用**：每篇解读文件末尾附有可直接复制的 `bibtex` 引用块（含完整作者列表与 arXiv/DOI 号）
 - **关键词索引**：可通过搜索关键词快速定位相关论文
 
 ---

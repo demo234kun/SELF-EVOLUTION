@@ -113,3 +113,18 @@
 1. **正确性自动化**：研究仓库级进化的自动正确性验证；
 2. **成本优化**：降低仓库级进化的算力开销；
 3. **跨问题迁移**：把框架迁移到其他 NP 完全问题（如 TSP、图着色）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{yu2025autonomous,
+  title={Autonomous Code Evolution Meets NP-Completeness},
+  author={Yu, Cunxi and Liang, Rongjian and Ho, Chia-Tung and Ren, Haoxing},
+  year={2025},
+  eprint={2509.07367},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2509.07367}
+}
+```

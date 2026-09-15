@@ -95,3 +95,18 @@
 1. **优化器对比研究**：在同一智能体系统上系统比较不同优化器（RL vs 进化 vs LLM 自反思）的效果与成本；
 2. **领域迁移**：研究通用自进化方法迁移到医疗/金融时的失效模式与适配策略；
 3. **闭环程度-风险曲线**：量化"闭环程度"与"误进化风险"的关系。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{fang2025a,
+  title={A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems},
+  author={Fang, Jinyuan and Peng, Yanwen and Zhang, Xi and Wang, Yingxu and Yi, Xinhao and Zhang, Guibin and Xu, Yi and Wu, Bin and Liu, Siwei and Li, Zihao and Ren, Zhaochun and Aletras, Nikos and Wang, Xi and Zhou, Han and Meng, Zaiqiao},
+  year={2025},
+  eprint={2508.07407},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2508.07407}
+}
+```

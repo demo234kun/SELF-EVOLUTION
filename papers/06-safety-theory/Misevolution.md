@@ -105,3 +105,18 @@
 1. **误进化检测**：设计在线检测误进化的指标；
 2. **安全-能力联合优化**：研究同时进化能力和安全（与 Self-RedTeam 呼应）；
 3. **缓解机制**：开发有效防止误进化的机制。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{shao2025your,
+  title={Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents},
+  author={Shao, Shuai and Ren, Qihan and Qian, Chen and Wei, Boyi and Guo, Dadi and Yang, Jingyi and Song, Xinhao and Zhang, Linfeng and Zhang, Weinan and Liu, Dongrui and Shao, Jing},
+  year={2025},
+  eprint={2509.26354},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2509.26354}
+}
+```

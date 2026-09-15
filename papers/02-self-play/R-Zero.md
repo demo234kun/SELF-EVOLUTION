@@ -110,3 +110,18 @@ Challenger 出题(能力边界奖励) → Solver 解题(正确性奖励)
 1. **能力边界稳健估计**：用更可靠的方法估计 Solver 能力边界，替代简单正确率；
 2. **防漂移机制**：在纯自博弈中加入 held-out 门控或少量锚点，抑制漂移；
 3. **多角色扩展**：把双角色扩展为 Challenger-Planner-Solver-Critic（如 SAGE 所做），研究角色数对进化效率的影响。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{huang2025rzero,
+  title={R-Zero: Self-Evolving Reasoning LLM from Zero Data},
+  author={Huang, Chengsong and Yu, Wenhao and Wang, Xiaoyang and Zhang, Hongming and Li, Zongxia and Li, Ruosen and Huang, Jiaxin and Mi, Haitao and Yu, Dong},
+  year={2025},
+  eprint={2508.05004},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2508.05004}
+}
+```

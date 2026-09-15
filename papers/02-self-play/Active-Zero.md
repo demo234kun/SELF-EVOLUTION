@@ -107,3 +107,18 @@ Active-Zero 的独特之处：**主动检索**替代静态数据集。
 1. **前沿估计**：研究更稳健的能力前沿估计方法（如不确定性度量）；
 2. **检索效率**：优化 Searcher 的检索成本-收益；
 3. **多模态扩展**：把主动探索扩展到视频/音频等更多模态。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{he2026active,
+  title={Active Zero: Self-Evolving Vision-Language Models through Active Environment Exploration},
+  author={He, Jinghan and Fang, Junfeng and Xiong, Feng and Yao, Zijun and Shen, Fei and Guo, Haiyun and Wang, Jinqiao and Chua, Tat-Seng},
+  year={2026},
+  eprint={2602.11241},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2602.11241}
+}
+```

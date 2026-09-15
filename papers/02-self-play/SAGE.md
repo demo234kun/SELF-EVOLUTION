@@ -100,3 +100,18 @@ SAGE 的独特组合：**四角色 + Critic 质量过滤 + 显式规划**。
 1. **课程漂移度量**：设计量化课程漂移的指标并对比过滤策略；
 2. **Critic 替代方案**：研究用规则/统计方法替代 LLM Critic，降低成本；
 3. **规划粒度研究**：研究计划粒度对长视野推理的影响。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{peng2026sage,
+  title={SAGE: Multi-Agent Self-Evolution for LLM Reasoning},
+  author={Peng, Yulin and Zhu, Xinxin and Wei, Chenxing and Zeng, Nianbo and Wang, Leilei and He, Ying Tiffany and Yu, F. Richard},
+  year={2026},
+  eprint={2603.15255},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2603.15255}
+}
+```

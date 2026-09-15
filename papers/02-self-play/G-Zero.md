@@ -108,3 +108,18 @@ Generator(DPO) ← 内化 hint 改进
 1. **内在奖励对比**：系统比较 Hint-δ 与其他内在奖励（熵、预测误差）的效果；
 2. **降低算力开销**：设计单次前向即可估计 Hint-δ 的近似方法；
 3. **开放域基准**：构建能客观度量开放生成自进化的评测集。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{huang2026gzero,
+  title={G-Zero: Self-Play for Open-Ended Generation from Zero Data},
+  author={Huang, Chengsong and Liu, Haolin and Zheng, Tong and Dai, Runpeng and Huang, Langlin and Li, Jinyuan and Li, Zongxia and Wei, Zhepei and Meng, Yu and Huang, Jiaxin},
+  year={2026},
+  eprint={2605.09959},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2605.09959}
+}
+```

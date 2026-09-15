@@ -107,3 +107,18 @@
 1. **技能管理**：研究技能集的去重、抽象层次与检索；
 2. **坍塌检测**：设计对抗坍塌的在线检测指标；
 3. **跨领域迁移**：研究技能能否跨任务域迁移。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{si2026from,
+  title={From Context to Skills: Can Language Models Learn from Context Skillfully?},
+  author={Si, Shuzheng and Zhao, Haozhe and Lei, Yu and Wang, Qingyi and Chen, Dingwei and Wang, Zhitong and Wang, Zhenhailong and Luo, Kangyang and Wang, Zheng and Chen, Gang and Qi, Fanchao and Zhang, Minjia and Sun, Maosong},
+  year={2026},
+  eprint={2604.27660},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2604.27660}
+}
+```

@@ -114,3 +114,18 @@ Solver(工具集成推理) ↔ Verifier(工具锚定批评+自奖励)
 1. **工具集扩展**：研究更多视觉验证工具的效果；
 2. **幻觉度量**：设计量化评估幻觉的指标；
 3. **无工具退化**：研究工具不可用时的退化与缓解。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{liu2025agent0vl,
+  title={Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning},
+  author={Liu, Jiaqi and Xiong, Kaiwen and Xia, Peng and Zhou, Yiyang and Ji, Haonian and Feng, Lu and Han, Siwei and Ding, Mingyu and Yao, Huaxiu},
+  year={2025},
+  eprint={2511.19900},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2511.19900}
+}
+```

@@ -111,3 +111,17 @@ AI可进化性 → 培育者场景(可控) 或 生态系统场景(控制侵蚀)
 1. **生态实验**：在受控环境中研究 AI 生态系统的对抗行为涌现；
 2. **复制门控机制**：设计技术层面的复制控制；
 3. **选择压力设计**：研究如何塑造使合作有利的选择环境。
+
+---
+
+## BibTeX
+
+```bibtex
+@article{muller2026evolvable,
+  title={Evolvable AI: Threats of a new major transition in evolution},
+  author={M{\"u}ller, Viktor and Steels, Luc and Szathm{\'a}ry, E{\"o}rs},
+  journal={Proceedings of the National Academy of Sciences},
+  year={2026},
+  doi={10.1073/pnas.2527700123}
+}
+```

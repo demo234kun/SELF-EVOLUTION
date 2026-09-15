@@ -107,3 +107,18 @@
 1. **侵蚀度量**：设计跨四通道统一的能力侵蚀指标；
 2. **CPE 机制化**：把 CPE 原则具体化为可实现的算法；
 3. **长期实验**：研究数百轮进化下的累积侵蚀与 CPE 的长期效果。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{yu2026do,
+  title={Do Self-Evolving Agents Forget? Capability Degradation and Preservation in Lifelong LLM Agent Adaptation},
+  author={Yu, Ye and Yuan, Xiaopeng and Jin, Haibo and Liu, Heming and Yu, Yaoning and Wang, Haohan},
+  year={2026},
+  eprint={2605.09315},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2605.09315}
+}
+```

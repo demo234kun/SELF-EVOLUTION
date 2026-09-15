@@ -104,3 +104,18 @@
 1. **组件协同进化**：设计模型+记忆+工具联合进化的算法，验证是否优于单组件进化；
 2. **进化能力基准**：构建能度量"跨任务持续改进"而非单任务分数的基准；
 3. **安全-能力权衡**：研究进化过程中能力提升与安全对齐退化之间的动态关系（与 Misevolution 论文呼应）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{gao2025a,
+  title={A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence},
+  author={Gao, Huan-ang and Geng, Jiayi and Hua, Wenyue and Hu, Mengkang and Juan, Xinzhe and Liu, Hongzhang and Liu, Shilong and Qiu, Jiahao and Qi, Xuan and Wu, Yiran and Wang, Hongru and Xiao, Han and Zhou, Yuhang and Zhang, Shaokun and Zhang, Jiayi and Xiang, Jinyu and Fang, Yixiong and Zhao, Qiwen and Liu, Dongrui and Ren, Qihan and Qian, Cheng and Wang, Zhenhailong and Hu, Minda and Wang, Huazheng and Wu, Qingyun and Ji, Heng and Wang, Mengdi},
+  year={2025},
+  eprint={2507.21046},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2507.21046}
+}
+```

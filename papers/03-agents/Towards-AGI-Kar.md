@@ -108,3 +108,18 @@
 1. **范式自动选择**：设计机制自动为任务选择 CL/RL/GA；
 2. **工具合成安全**：研究合成工具的正确性与安全性验证；
 3. **升级判据优化**：优化三级升级的触发条件。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{kar2026towards,
+  title={Towards AGI A Pragmatic Approach Towards Self Evolving Agent},
+  author={Kar, Indrajit and Zonunpuia, Sammy and Ralte, Zonunfeli},
+  year={2026},
+  eprint={2601.11658},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2601.11658}
+}
+```

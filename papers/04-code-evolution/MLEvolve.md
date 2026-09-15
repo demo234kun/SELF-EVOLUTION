@@ -111,3 +111,18 @@
 1. **记忆管理**：研究记忆的压缩、去噪与检索策略；
 2. **调度优化**：研究探索-利用的最优切换点；
 3. **跨域验证**：把框架迁移到更多科学发现领域。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{du2026mlevolve,
+  title={MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery},
+  author={Du, Shangheng and Yan, Xiangchao and Shi, Jinxin and Cao, Zongsheng and Feng, Shiyang and Liang, Zichen and Sun, Boyuan and Peng, Tianshuo and Zhou, Yifan and Li, Xin and Zhou, Jie and He, Liang and Zhang, Bo and Bai, Lei},
+  year={2026},
+  eprint={2606.06473},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2606.06473}
+}
+```

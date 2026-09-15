@@ -108,3 +108,18 @@
 1. **尺度协调**：研究快慢变量的最优切换策略；
 2. **控制逻辑空间**：扩展可进化的控制逻辑范围；
 3. **生产验证**：在真实生产 Agent 上验证 PACE。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{ling2026pace,
+  title={PACE: Two-Timescale Self-Evolution for Small Language Model Agents},
+  author={Ling, Chen and Chen, Pei and Guan, Albert and Qu, Jiaming and Akbar, Shayan Ali and Gopinathan, Madhu and Cornejo, Erwin},
+  year={2026},
+  eprint={2605.23019},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2605.23019}
+}
+```

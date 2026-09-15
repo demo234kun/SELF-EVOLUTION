@@ -106,3 +106,18 @@
 1. **多模态提升**：研究缩小文本-多模态性能差距；
 2. **奖励模型稳健性**：设计抗钻空子的 MGRM；
 3. **真实具身验证**：从 ALFWorld 迁移到真实机器人。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{tian2025seear1,
+  title={SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents},
+  author={Tian, Wanxin and Zhang, Shijie and Zhang, Kevin and Chi, Xiaowei and Fan, Chunkai and Lu, Junyu and Luo, Yulin and Zhou, Qiang and Zhao, Yiming and Liu, Ning and Lin, Siyu and Qin, Zhiyuan and Ju, Xiaozhu and Zhang, Shanghang and Tang, Jian},
+  year={2025},
+  eprint={2506.21669},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2506.21669}
+}
+```

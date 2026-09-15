@@ -99,3 +99,18 @@
 1. **模块消融**：研究各脑启发模块对 Agent 性能的贡献；
 2. **自增强机制**：设计更有效的自主精炼方法；
 3. **安全内建**：研究如何把安全对齐内建于模块化架构。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{liu2025advances,
+  title={Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems},
+  author={Liu, Bang and Li, Xinfeng and Zhang, Jiayi and Wang, Jinlin and He, Tanjin and Hong, Sirui and Liu, Hongzhang and Zhang, Shaokun and Song, Kaitao and Zhu, Kunlun and Cheng, Yuheng and Wang, Suyuchen and Wang, Xiaoqiang and Luo, Yuyu and Jin, Haibo and Zhang, Peiyan and Liu, Ollie and Chen, Jiaqi and Zhang, Huan and Yu, Zhaoyang and Shi, Haochen and Li, Boyan and Wu, Dekun and Teng, Fengwei and Jia, Xiaojun and Xu, Jiawei and Xiang, Jinyu and Lin, Yizhang and Liu, Tianming and Liu, Tongliang and Su, Yu and Sun, Huan and Berseth, Glen and Nie, Jianyun and Foster, Ian and Ward, Logan and Wu, Qingyun and Gu, Yu and Zhuge, Mingchen and Liang, Xinbing and Tang, Xiangru and Wang, Haohan and You, Jiaxuan and Wang, Chi and Pei, Jian and Yang, Qiang and Qi, Xiaoliang and Wu, Chenglin},
+  year={2025},
+  eprint={2504.01990},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2504.01990}
+}
+```

@@ -109,3 +109,18 @@ WebEvolver 的独特之处：**世界模型作为虚拟环境 + 想象引擎**�
 1. **预测误差控制**：研究世界模型误差累积的抑制方法；
 2. **分布漂移**：研究虚拟环境与真实环境的分布对齐；
 3. **跨环境迁移**：世界模型能否跨网站/跨领域迁移。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{fang2025webevolver,
+  title={WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model},
+  author={Fang, Tianqing and Zhang, Hongming and Zhang, Zhisong and Ma, Kaixin and Yu, Wenhao and Mi, Haitao and Yu, Dong},
+  year={2025},
+  eprint={2504.21024},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2504.21024}
+}
+```

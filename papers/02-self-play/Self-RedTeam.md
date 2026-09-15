@@ -109,3 +109,18 @@ Self-RedTeam 的独特之处：**单一策略同时扮演攻防双方**，完全
 1. **收敛性实证**：实证研究深度 RL 自对弈是否真的接近 Nash 均衡；
 2. **奖励模型加固**：设计抗 reward hacking 的裁判机制；
 3. **能力-安全联合共进化**：研究能否同时进化能力和安全（避免此消彼长）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{liu2025chasing,
+  title={Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models},
+  author={Liu, Mickel and Jiang, Liwei and Liang, Yancheng and Du, Simon Shaolei and Choi, Yejin and Althoff, Tim and Jaques, Natasha},
+  year={2025},
+  eprint={2506.07468},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2506.07468}
+}
+```

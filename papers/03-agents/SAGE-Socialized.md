@@ -111,3 +111,18 @@ SAGE 的独特之处：**严格算力匹配的对照实验**，隔离"共享历�
 1. **最优共享形式**：研究不同抽象层次的同伴经验共享效果；
 2. **停滞检测**：设计识别"需要同伴经验"的机制；
 3. **生态设计**：研究 Agent 群体的组成对整体进化的影响。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{pan2026sage,
+  title={SAGE: A Quantitative Evaluation of Socialized Evolution in Agent Ecosystems},
+  author={Pan, Linyue and Zhu, Yaoming and Qiu, Lin and Cao, Xuezhi and Cai, Xunliang},
+  year={2026},
+  eprint={2606.03544},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2606.03544}
+}
+```

@@ -110,3 +110,18 @@
 1. **验证器可靠性**：研究语义等价验证的误差对训练的影响及缓解；
 2. **课程优化**：用元学习优化长度/难度课程调度；
 3. **跨模态扩展**：把三角色自对弈扩展到图文/视频长上下文。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{yang2025spell,
+  title={SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Models},
+  author={Yang, Ziyi and Shen, Weizhou and Li, Chenliang and Chen, Ruijun and Wan, Fanqi and Yan, Ming and Quan, Xiaojun and Huang, Fei},
+  year={2025},
+  eprint={2509.23863},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2509.23863}
+}
+```

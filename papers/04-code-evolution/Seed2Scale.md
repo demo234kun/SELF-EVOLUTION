@@ -119,3 +119,18 @@
 1. **验证器可靠性**：研究 VLM 验证的误差对数据质量的影响；
 2. **探索-需求匹配**：研究小模型探索与目标模型需求的匹配；
 3. **真实迁移**：研究仿真数据到真实具身的迁移（具身差距）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{tai2026seed2scale,
+  title={Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation},
+  author={Tai, Cong and Zheng, Zhaoyu and Long, Haixu and Wu, Hansheng and Long, Zhengbin and Xiang, Haodong and Shi, Rong and Cui, Zhuo and Zhang, Shizhuang and Qiu, Gang and Wang, He and Li, Ruifeng and Liu, Biao and Sun, Zhenzhe and Shen, Tao},
+  year={2026},
+  eprint={2603.08260},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2603.08260}
+}
+```

@@ -102,3 +102,18 @@ Tool-R0 的独特之处：**把自对弈与真实工具调用结合**，实现�
 1. **成本感知自对弈**：在奖励中加入调用成本/延迟，训练高效工具使用；
 2. **工具合成进化**：让 Generator 不仅出题还合成新工具（与 Agent0 呼应）；
 3. **安全工具调用**：研究如何避免自进化中学到危险工具操作（与 Misevolution 呼应）。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{acikgoz2026toolr0,
+  title={Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data},
+  author={Acikgoz, Emre Can and Qian, Cheng and Hübotter, Jonas and Ji, Heng and Hakkani-Tür, Dilek and Tur, Gokhan},
+  year={2026},
+  eprint={2602.21320},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2602.21320}
+}
+```

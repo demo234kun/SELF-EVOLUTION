@@ -102,3 +102,18 @@ LSP 的理论基础：**self-play 在博弈论中保证收敛到 Nash 均衡**�
 1. **博弈设计**：为不同任务（写作、对话）设计合适的竞争性博弈；
 2. **判定可靠性**：研究胜负判定质量对自对弈效果的影响；
 3. **理论扩展**：把 Nash 均衡保证扩展到非零和/不完全信息的语言任务。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{kuba2025language,
+  title={Language Self-Play For Data-Free Training},
+  author={Kuba, Jakub Grudzien and Gu, Mengting and Ma, Qi and Tian, Yuandong and Mohan, Vijai and Chen, Jason},
+  year={2025},
+  eprint={2509.07414},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2509.07414}
+}
+```

@@ -107,3 +107,18 @@ Self-Consolidation 的独特组合：**对比反思 + 文本→参数蒸馏**。
 1. **蒸馏-遗忘权衡**：研究自巩固如何避免灾难性遗忘；
 2. **何时内化**：设计决策机制判断何时该内化（vs 保留为文本）；
 3. **失败经验建模**：系统研究失败轨迹的利用方式。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{yu2026selfconsolidation,
+  title={Self-Consolidation for Self-Evolving Agents},
+  author={Yu, Hongzhuo and Zhu, Fei and Xie, Guo-Sen and Shao, Ling},
+  year={2026},
+  eprint={2602.01966},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2602.01966}
+}
+```

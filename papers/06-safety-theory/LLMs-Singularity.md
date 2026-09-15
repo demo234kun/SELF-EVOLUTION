@@ -100,3 +100,17 @@
 1. **条件量化**：为 RSI/自主代码生成设计可量化指标；
 2. **增长动力学**：实证研究 LLM 自改进的增长曲线；
 3. **安全评估**：研究接近奇点时的安全边界。
+
+---
+
+## BibTeX
+
+```bibtex
+@article{ishizaki2025llms,
+  title={Large language models: assessment for singularity},
+  author={Ishizaki, Ryunosuke and others},
+  journal={AI \& Society},
+  year={2025},
+  doi={10.1007/s00146-025-02271-4}
+}
+```

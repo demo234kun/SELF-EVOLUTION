@@ -108,3 +108,18 @@
 1. **代码正确性**：研究代码策略精炼中的 bug 检测与修复；
 2. **跨环境迁移**：研究策略制品能否跨环境复用；
 3. **真实任务验证**：把以制品为中心的学习扩展到真实长视野任务。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{belle2025agents,
+  title={Agents of Change: Self-Evolving LLM Agents for Strategic Planning},
+  author={Belle, Nikolas and Barnes, Dakota and Amayuelas, Alfonso and Bercovich, Ivan and Wang, Xin Eric and Wang, William},
+  year={2025},
+  eprint={2506.04651},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2506.04651}
+}
+```

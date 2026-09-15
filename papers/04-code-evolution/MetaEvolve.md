@@ -110,3 +110,18 @@
 1. **元技能度量**：设计量化元技能（如反思质量）的指标；
 2. **迁移机制**：研究元技能从代码域迁移到开放域的机制；
 3. **弱验证域训练**：研究如何在弱验证域培养元技能。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{wu2026teaching,
+  title={Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning},
+  author={Wu, Shujin and Qian, Cheng and Chen, Xiusi and Ji, Heng},
+  year={2026},
+  eprint={2607.21971},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2607.21971}
+}
+```

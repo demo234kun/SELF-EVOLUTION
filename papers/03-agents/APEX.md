@@ -107,3 +107,18 @@ L1 Harness(失败修补) + L2 Principles(成功蒸馏) + L3 Topology(适应度�
 1. **维度扩展**：探索更多可进化维度（如工具集、记忆结构）；
 2. **标准基准验证**：在 Terminal-Bench 等标准基准上验证三层框架；
 3. **成本-效果曲线**：研究各层的成本-收益权衡。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{chen2026apex,
+  title={APEX: Adaptive Principle EXtraction A Three-Layer Self-Evolution Framework for Production AI Agents},
+  author={Chen, Ya-Chuan and Lai, Tien-Jen and Hu, Hsiang-Wei},
+  year={2026},
+  eprint={2606.15363},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2606.15363}
+}
+```

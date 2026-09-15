@@ -110,3 +110,18 @@ EvolveR 的独特之处：**完整闭环**——离线提炼 + 在线检索 + �
 1. **原则库管理**：研究原则的去重、抽象层次与检索效率；
 2. **强化机制设计**：对比不同策略强化方法的收敛性；
 3. **跨领域迁移**：研究原则能否跨任务域迁移复用。
+
+---
+
+## BibTeX
+
+```bibtex
+@misc{wu2025evolver,
+  title={EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle},
+  author={Wu, Rong and Wang, Xiaoman and Mei, Jianbiao and Cai, Pinlong and Fu, Daocheng and Yang, Cheng and Wen, Licheng and Yang, Xuemeng and Shen, Yufan and Wang, Yuxin and Shi, Botian},
+  year={2025},
+  eprint={2510.16079},
+  archivePrefix={arXiv},
+  doi={10.48550/arXiv.2510.16079}
+}
+```

@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Ya-Chuan Chen 等
-- **机构**: 未公开（arXiv 预印本，NVIDIA Agent Challenge 2026 相关）
+- **机构**: Grace AI Technology
 - **发表会议**: arXiv 预印本（2026）
 - **论文链接**: https://arxiv.org/abs/2606.15363
 - **代码链接**: 未提供

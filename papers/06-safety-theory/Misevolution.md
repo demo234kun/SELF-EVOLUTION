@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Shuai Shao 等
-- **机构**: 未公开（arXiv 预印本）
+- **机构**: 中国人民大学、普林斯顿大学、香港科技大学、复旦大学、上海人工智能实验室、上海交通大学
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2509.26354
 - **代码链接**: https://github.com/ShaoShuai0605/Misevolution

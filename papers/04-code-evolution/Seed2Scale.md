@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Cong Tai 等
-- **机构**: 未公开（arXiv 预印本）
+- **机构**: 中兴通讯（ZTE Corporation）
 - **发表会议**: arXiv 预印本（2026）
 - **论文链接**: https://arxiv.org/abs/2603.08260
 - **代码链接**: 项目页 https://terminators2025.github.io/Seed2Scale.github.io

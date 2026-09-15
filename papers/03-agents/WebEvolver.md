@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Tianqing Fang 等
-- **机构**: 腾讯等（多机构合作）
+- **机构**: 腾讯 AI Lab
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2504.21024
 - **代码链接**: https://github.com/Tencent/SelfEvolvingAgent

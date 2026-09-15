@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Jenny Zhang 等
-- **机构**: MIT、MIT-IBM Watson AI Lab 等
+- **机构**: 不列颠哥伦比亚大学（UBC）、Vector Institute、Sakana AI
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2505.22954
 - **代码链接**: https://github.com/jennyzzt/dgm

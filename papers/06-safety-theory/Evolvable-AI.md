@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Viktor Müller 等
-- **机构**: Max Planck Institute 等（多机构合作）
+- **机构**: 罗兰大学（Eötvös Loránd University）、HUN-REN 生态研究中心、比利时皇家弗拉芒科学院
 - **发表会议**: **PNAS**（Proceedings of the National Academy of Sciences, 2026）
 - **论文链接**: https://doi.org/10.1073/pnas.2527700123
 - **代码链接**: 未提供（理论/立场论文）

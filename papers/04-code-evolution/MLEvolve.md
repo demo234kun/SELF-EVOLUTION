@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Shangheng Du 等
-- **机构**: 中国科学院等（多机构合作）
+- **机构**: 上海人工智能实验室、华东师范大学
 - **发表会议**: arXiv 预印本（2026）
 - **论文链接**: https://arxiv.org/abs/2606.06473
 - **代码链接**: https://github.com/InternScience/MLEvolve

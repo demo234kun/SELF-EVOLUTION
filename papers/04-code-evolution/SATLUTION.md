@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Cunxi Yu 等
-- **机构**: 未公开（arXiv 预印本，疑似 University of Utah / 多机构）
+- **机构**: NVIDIA Research、马里兰大学
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2509.07367
 - **代码链接**: 未提供

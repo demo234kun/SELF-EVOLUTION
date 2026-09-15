@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Peng Xia 等
-- **机构**: 未公开（arXiv 预印本，疑似 UNC / 多机构）
+- **机构**: 北卡罗来纳大学教堂山分校、Salesforce Research、斯坦福大学
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2511.16043
 - **代码链接**: https://github.com/aiming-lab/Agent0

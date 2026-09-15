@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Qizheng Zhang 等
-- **机构**: 未公开（arXiv 预印本，疑似 Stanford 等）
+- **机构**: SambaNova Systems、加州大学伯克利分校
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2510.04618
 - **代码链接**: 未提供

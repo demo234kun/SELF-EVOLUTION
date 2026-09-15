@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: J. Kuba 等
-- **机构**: University of Alberta 等（多机构合作）
+- **机构**: Meta Superintelligence Labs、加州大学伯克利分校
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2509.07414
 - **代码链接**: 未提供

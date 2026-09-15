@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Mingguang Chen 等
-- **机构**: 未公开（arXiv 预印本）
+- **机构**: 伊利诺伊理工学院（IIT）、DeepGrounding / AlphaAvatar
 - **发表会议**: arXiv 预印本（2026）
 - **论文链接**: https://arxiv.org/abs/2607.07663
 - **代码链接**: 未提供（综述论文）

@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Lunjun Zhang 等
-- **机构**: Google DeepMind 等（多机构合作）
+- **机构**: 多伦多大学、西北大学、Bridgewater AIA Labs
 - **发表会议**: arXiv 预印本（2026）
 - **论文链接**: https://arxiv.org/abs/2602.14697
 - **代码链接**: https://github.com/LunjunZhang/E-SPL

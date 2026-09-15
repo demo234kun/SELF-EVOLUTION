@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Junlin Yang 等
-- **机构**: Frontis AI 等（多机构合作）
+- **机构**: Frontis AI（OpenRSI）、清华大学
 - **发表会议**: arXiv 预印本（2026）
 - **论文链接**: https://arxiv.org/abs/2607.28568
 - **代码链接**: https://github.com/FrontisAI/OpenRSI

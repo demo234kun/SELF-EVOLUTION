@@ -3,7 +3,7 @@
 ## 基本信息
 
 - **作者**: Mickel Liu 等
-- **机构**: KAUST、Meta 等（多机构合作）
+- **机构**: 华盛顿大学、斯坦福大学
 - **发表会议**: arXiv 预印本（2025）
 - **论文链接**: https://arxiv.org/abs/2506.07468
 - **代码链接**: https://github.com/mickelliu/selfplay-redteaming
